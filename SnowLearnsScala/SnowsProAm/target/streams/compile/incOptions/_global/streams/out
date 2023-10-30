@@ -1,0 +1,23 @@
+[debug] Created transactional ClassFileManager with tempDir = C:\Users\snows\OneDrive\Desktop\SnowLearns\SnowLearnsScala\SnowsProAm\target\scala-3.3.1\classes.bak
+[debug] About to delete class files:
+[debug] 	Main$package$.class
+[debug] 	main.class
+[debug] 	Main$package.class
+[debug] 	Main$package$.tasty
+[debug] 	main.tasty
+[debug] 	Main$package.tasty
+[debug] We backup class files:
+[debug] 	Main$package$.class
+[debug] 	main.class
+[debug] 	Main$package.class
+[debug] 	Main$package$.tasty
+[debug] 	main.tasty
+[debug] 	Main$package.tasty
+[debug] Registering generated classes:
+[debug] 	Main$package$.class
+[debug] 	main.class
+[debug] 	Main$package.class
+[debug] 	Main$package$.tasty
+[debug] 	main.tasty
+[debug] 	Main$package.tasty
+[debug] Removing the temporary directory used for backing up class files: C:\Users\snows\OneDrive\Desktop\SnowLearns\SnowLearnsScala\SnowsProAm\target\scala-3.3.1\classes.bak
